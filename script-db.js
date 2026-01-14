@@ -1,8 +1,7 @@
 {
   "status": "on",
-  "allowed_numbers": [
-    "62882017494350",
-    "6288269917087",
-    "6283896281042"
-  ]
+  "password": "VESPERV1",
+  "system_name": "VESPER V1",
+  "version": "1.0",
+  "owner": "6283896281042"
 }
